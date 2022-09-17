@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhouib Mohamed ,a Software Engenieering Student
-- 👀 I’m interested in Applications Developpment and DATA Science
-- 🌱 I’m currently learning Flutter and Web Developpment
+- 👀 I’m interested in Application Developpment and DATA Science
+- 🌱 I’m currently learning Mobile and Web Developpment
 - 📫 How to reach me LinkedIn :www.linkedin.com/in/mohamed-dhouib-74b464202
 
 <!---
