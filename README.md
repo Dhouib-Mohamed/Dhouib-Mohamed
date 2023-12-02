@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhouib-Mohamed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=Dhouib-Mohamed&theme=light&background=FFFFFFF)](https://git.io/streak-stats)
 
 ## Contact Me
 
