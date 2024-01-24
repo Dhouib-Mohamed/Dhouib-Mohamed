@@ -4,11 +4,23 @@
 
 ## Stats
 
-![Dhouib-Mohamed stats](https://github-readme-stats.vercel.app/api?username=Dhouib-Mohamed&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhouib-Mohamed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=Dhouib-Mohamed&theme=light&background=FFFFFFF)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  <table style="margin: 0 auto;" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dhouib-Mohamed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhouib-Mohamed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhouib-Mohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Contact Me
 
